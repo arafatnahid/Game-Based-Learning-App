@@ -1,4 +1,4 @@
-# Game BAsed Learning_app
+# Game Based Learning_app
 
 # 📸 Screenshots
 ![Screenshot 1](https://github.com/arafatnahid/Game-Based-Learning-App/blob/main/assets/images/Screenshot_1299.png)
